@@ -22,7 +22,7 @@ A powerful and user-friendly RAG (Retrieval-Augmented Generation) system that al
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/document-qa.git
+https://github.com/raees123git/RAG--Application.git
 cd document-qa
 2. Install Dependencies
 Ensure you are using Python 3.8+ and a virtual environment (recommended).
