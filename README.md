@@ -14,8 +14,6 @@ A powerful and user-friendly RAG (Retrieval-Augmented Generation) system that al
 
 🔐 Uses environment variables for secure API key management
 
-🖥️ Demo
-![Demo GIF or Screenshot Placeholder]
 
 (You can insert a GIF or screenshot here to show how the app works)
 
